@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sahtushar.github.io/csb-ikqci/static/css/main.e96015fc.chunk.css",
+    "main.js": "https://sahtushar.github.io/csb-ikqci/static/js/main.c38e2894.chunk.js",
+    "main.js.map": "https://sahtushar.github.io/csb-ikqci/static/js/main.c38e2894.chunk.js.map",
+    "runtime-main.js": "https://sahtushar.github.io/csb-ikqci/static/js/runtime-main.a88ef090.js",
+    "runtime-main.js.map": "https://sahtushar.github.io/csb-ikqci/static/js/runtime-main.a88ef090.js.map",
+    "static/js/2.7e541a1d.chunk.js": "https://sahtushar.github.io/csb-ikqci/static/js/2.7e541a1d.chunk.js",
+    "static/js/2.7e541a1d.chunk.js.map": "https://sahtushar.github.io/csb-ikqci/static/js/2.7e541a1d.chunk.js.map",
+    "index.html": "https://sahtushar.github.io/csb-ikqci/index.html",
+    "static/css/main.e96015fc.chunk.css.map": "https://sahtushar.github.io/csb-ikqci/static/css/main.e96015fc.chunk.css.map",
+    "static/js/2.7e541a1d.chunk.js.LICENSE.txt": "https://sahtushar.github.io/csb-ikqci/static/js/2.7e541a1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a88ef090.js",
+    "static/js/2.7e541a1d.chunk.js",
+    "static/css/main.e96015fc.chunk.css",
+    "static/js/main.c38e2894.chunk.js"
+  ]
+}
